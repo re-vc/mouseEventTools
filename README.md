@@ -30,12 +30,12 @@ The script will generate an XML file named mouseEvent.xml in the same directory.
 
 Each mouse movement is represented as a <MouseMovementEvent> tag in the XML file. Here is an example of what a single mouse movement event looks like:
 
-<MouseMovementEvent>
+`<MouseMovementEvent>
     <Type>3</Type>
     <X>5</X>
     <Y>5</Y>
     <Delay>1</Delay>
-</MouseMovementEvent>
+</MouseMovementEvent>`
 
 ## Purpose
 The generated XML file simulates mouse movements which can be useful for automated tasks, such as in gaming applications. Specifically, this output can be used with Razer Synapse's Macro feature to automate certain tasks or sequences in games or other software.
