@@ -1,0 +1,13 @@
+{
+  "name": "mouse-event-tool",
+  "version": "1.0.0",
+  "description": "A Node.js script for generating an XML file that simulates mouse movement events.",
+  "main": "mouseEventTool.js",
+  "scripts": {
+    "help": "node mouseEventTool.js --help",
+    "generate": "node mouseEventTool.js"
+  },
+  "keywords": ["mouse movement", "interpolation", "XML", "simulation", "automation", "testing"],
+  "author": "re-vc",
+  "license": "MIT"
+}
